@@ -1,0 +1,14 @@
+com\test\Utilities\TekExtentReports.class
+com\test\constants\EndURIs.class
+com\test\pojos\LoginResponsePojo.class
+com\test\pojos\LoginPojo.class
+com\test\Utilities\Listeners.class
+com\baseTekarch\tests\BaseTestMethods.class
+com\test\pojos\ReadPojo.class
+com\test\pojos\DeletePojo.class
+com\test\Utilities\projectUtilities.class
+com\baseTekarch\tests\ReusableMethods.class
+com\tekarch\tests\EndToEndTestcases.class
+com\test\pojos\CreatePojo.class
+com\test\pojos\UpdatePojo.class
+com\test\constants\SourcePaths.class
